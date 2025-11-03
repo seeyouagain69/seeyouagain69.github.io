@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "      Ziyazhuo Wang"
   pronouns         : # example: "she/her"  
-  bio              : "MSE student"
-  location         : "Southeast University"
+  bio              : "MSE student \nSoutheast University"
+  location         : #"Southeast University"
   employer         : 
   uri              : 
   email            : 
